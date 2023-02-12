@@ -12,9 +12,9 @@ Delivery sales currently make up 25% of total sales as shown below.
 
 **2020 Numbers**
 
-Total Sales - $446,702
-Total Delivery Sales - $111,494
-Total Deliveries - 4985
+Total Sales - $446,702,
+Total Delivery Sales - $111,494,
+Total Deliveries - 4985,
 No of Riders - 4
 
 
@@ -22,9 +22,9 @@ Leks Pizza plans to increase overall sales by 12% in the new year to $500,000 wi
 
 **2021 Targets**
 
-Total Sales - $500,00
-Total Delivery Sales - $150,000
-Total Deliveries - 5540
+Total Sales - $500,000,
+Total Delivery Sales - $150,000,
+Total Deliveries - 5540,
 No of Riders - 4
 
 
@@ -32,7 +32,7 @@ This will be an end-to-end project which entails building a database using compa
 
 The project will be shared on LinkedIn over the next few weeks following the order below;
 
-Week 1 (Today) March 6th - Project Introduction
+Week 1 March 6th - Project Introduction
 
 Week 2 March 13 - Answering business questions using SQL
 
