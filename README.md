@@ -32,10 +32,12 @@ This will be an end-to-end project which entails building a database using compa
 
 The project will be shared on LinkedIn over the next few weeks following the order below;
 
-Week 1 March 6th - Project Introduction
 
-Week 2 March 13 - Answering business questions using SQL
+Week 1 - Answering business questions using SQL
 
-Week 3 March 20 - Answering 
+Week 2 - Answering business questions using Python
 
-Week 4 March 27 - Visualizations using Tableau
+Week 3 - Presentation of key finds using Tableau
+
+![Leks Pizza - Cover Photo](https://user-images.githubusercontent.com/113634690/232621575-09145737-79f0-45db-93a0-9d6152b6b3c5.png)
+
